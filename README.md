@@ -14,3 +14,7 @@ Target Variable: Selling Price (Selling_Price)
 1. Sigmoid Activation Function 
 2. Tanh Activation Function
 3. ReLu Activation Function
+
+
+#Code 
+https://colab.research.google.com/drive/1gbJzYszrV6y5JcsIy_dY3wBhVmnjsQBW
